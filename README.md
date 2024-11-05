@@ -13,3 +13,5 @@ The Travel Journal is a data-driven application built with React. It showcases v
 - **HTML** - For structuring the content within React components (via JSX).
 - **CSS** - For styling components.
 - **Font Awesome** - For icons in the app.
+
+![image](https://github.com/user-attachments/assets/b8d1a73d-0da8-462b-9c38-8880f2f38138)
